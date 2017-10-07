@@ -1,2 +1,2 @@
 # hello-word
-初始
+gitup的helloword
